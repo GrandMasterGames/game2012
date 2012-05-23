@@ -1,4 +1,1 @@
-game2012
-========
-
-Grandmaster Games repo
+Primary repository for gam200 2012, team Grandmaster Games.
